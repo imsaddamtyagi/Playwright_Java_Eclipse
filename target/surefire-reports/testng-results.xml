@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-14T11:31:11 IST" name="Surefire suite" finished-at="2025-03-14T11:31:20 IST" duration-ms="9333">
+    <groups>
+    </groups>
+    <test started-at="2025-03-14T11:31:11 IST" name="Surefire test" finished-at="2025-03-14T11:31:20 IST" duration-ms="9333">
+      <class name="com.qa.playwright.PlaywrightOnChromeTest">
+        <test-method signature="Playwright_Chrome()[pri:0, instance:com.qa.playwright.PlaywrightOnChromeTest@78e94dcf]" started-at="2025-03-14T11:31:11 IST" name="Playwright_Chrome" finished-at="2025-03-14T11:31:20 IST" duration-ms="9285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Playwright_Chrome -->
+      </class> <!-- com.qa.playwright.PlaywrightOnChromeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
