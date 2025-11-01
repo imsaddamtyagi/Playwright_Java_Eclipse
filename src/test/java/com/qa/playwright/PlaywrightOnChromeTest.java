@@ -11,7 +11,6 @@ public class PlaywrightOnChromeTest {
     @Test(enabled=false)
     public void Playwright_Chrome_Headless()
     {
-
          Playwright playwright = Playwright.create();
          Browser browser = playwright.chromium().launch();
          Page page = browser.newPage();
